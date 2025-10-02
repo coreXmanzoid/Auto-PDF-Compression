@@ -32,8 +32,8 @@ This Python script automates the **PDF compression** process using [iLovePDF](ht
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/your-username/ilovepdf-automation.git
-cd ilovepdf-automation
+git clone https://github.com/coreXmanzoid/Automate-PDF-Compression.git
+cd Automate-PDF-Compression
 ```
 
 2. **Install the required packages**
@@ -88,7 +88,7 @@ python ilovepdf.py
 
 **Muhammad Hammad Ashraf**  
 Owner of [coreXmanzoid](https://your-company-website.com)  
-Email: manzoid@gmail.com
+Email: coreXmanzoid@gmail.com
 
 ---
 
